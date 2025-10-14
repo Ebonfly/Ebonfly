@@ -4,7 +4,7 @@ Hi, I'm **Ebonfly**
 <br>
 C# programmer since 2019/2020, basically exclusively modding Terraria though
 
-## What I Do
+## What I do
 
 <img align="right" alt="ebonfly branded vfx" src="https://github.com/Ebonfly/Ebonfly/blob/main/comet_round.png">
 
@@ -41,7 +41,7 @@ I enjoy creating pretty VFX, even if I'm still relatively inexperienced <br><sub
 > and more..?!?!? perhaps? <sub>hmu :3</sub>
 </details>
 
-## If This is Flat, I've Failed
+## If this is flat, I've failed
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ebonfly&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=cba6f7&hide_border=true&hide_title=true&height=300&area=true&area_color=cba6f7&grid=false&radius=16" alt="Activity."/>
