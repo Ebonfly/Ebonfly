@@ -1,4 +1,4 @@
-# [🌀 Ebonfly](https://github.com/Ebonfly) <img align="right" alt="Discord" src="https://img.shields.io/discord/1069231084669243432?style=for-the-badge&label=discord&labelColor=1e1e2e&color=cba6f7"> <img align="right" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC9Z_leOnTECruDGa4xldApg?style=for-the-badge&logoColor=cba6f7&label=YouTube&labelColor=1e1e2e&color=cba6f7">
+# [🌀 Ebonfly](https://github.com/Ebonfly) <a href="https://discord.gg/DexM5QuV7c"><img align="right" alt="Discord" src="https://img.shields.io/discord/1069231084669243432?style=for-the-badge&label=discord&labelColor=1e1e2e&color=cba6f7"></a> <a href="https://www.youtube.com/@Ebonfly"><img align="right" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC9Z_leOnTECruDGa4xldApg?style=for-the-badge&logoColor=cba6f7&label=YouTube&labelColor=1e1e2e&color=cba6f7"></a>
 
 Hi, I'm **Ebonfly** 
 <br>
