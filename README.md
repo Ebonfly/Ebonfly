@@ -8,7 +8,7 @@ C# programmer since 2019/2020, basically exclusively modding Terraria though
 
 <img align="right" alt="ebonfly branded vfx" src="https://github.com/Ebonfly/Ebonfly/blob/main/comet_round.png">
 
-I enjoy making pretty vfx, even if I'm still relatively inexperienced <br><sub>Sometimes I post what I do on [youtube](https://www.youtube.com/@Ebonfly)</sub>
+I mostly enjoy making pretty vfx, even if I'm still relatively inexperienced <br><sub>Sometimes I post what I do on [youtube](https://www.youtube.com/@Ebonfly)</sub>
 <br>
 
 
